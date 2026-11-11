@@ -17,7 +17,7 @@ MAX_BYTES = 1024 * 1024
 
 # Switch containers, executables and game data formats.
 BLOCKED_SUFFIXES = {
-    ".xci", ".xcz", ".nsp", ".nsz", ".nca", ".ncz", ".tik", ".cert",
+    ".nup", ".xci", ".xcz", ".nsp", ".nsz", ".nca", ".ncz", ".tik", ".cert",
     ".nso", ".nro", ".nrr", ".npdm", ".keys",
     ".bfres", ".bntx", ".bnsh", ".sarc", ".szs", ".zs", ".pack", ".byml",
     ".bgyml", ".msbt", ".bars", ".bwav", ".bfwav", ".bfstm", ".bfttf",
